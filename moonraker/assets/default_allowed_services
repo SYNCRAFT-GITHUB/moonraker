@@ -2,8 +2,11 @@ klipper_mcu
 webcamd
 MoonCord
 KlipperScreen
+KlipperScreenIDEX
+SwierVision
 moonraker-telegram-bot
 moonraker-obico
+moonraker-obico-syncraft
 sonar
 crowsnest
 octoeverywhere
